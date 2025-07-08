@@ -124,5 +124,5 @@ const UserList = () => {
     
   )
 }
-//crud applocation with all
+//crud applocation with all inputes
 export default UserList
